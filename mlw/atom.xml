@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>making / learning / work</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v3.1.6</generator>
+    <icon>http://learn.media.mit.edu/apple-touch-icon-precomposed.png</icon>
+  <subtitle>Adult learning project at the MIT Media Lab</subtitle>
+  <link href="http://learn.media.mit.edu/atom.xml" rel="self"/>
+  <link href="http://learn.media.mit.edu/" rel="alternate" type="text/html"/>
+  <updated>2016-05-31T20:54:01+00:00</updated>
+  <id>http://learn.media.mit.edu/</id>
+  <author>
+    <name>Juliana Nazaré</name>
+    <uri>http://learn.media.mit.edu/</uri>
+    <email>juliana@media.mit.edu</email>
+  </author>
+
+  
+  <entry>
+    <title>Read Out Loud Alpha Released!</title>
+    <link href="http://learn.media.mit.edu/updates/rol/rol-alpha-release.html"/>
+    <updated>2015-06-02T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates/rol/rol-alpha-release</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;We have just released an alpha version of Read Out Loud on the Google Play Store!&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-i-get-it&quot;&gt;How can I get it?&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;On an Android device, click the &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.juliananazare.rol&quot;&gt;download link&lt;/a&gt; to download the application from the Google Play Store.&lt;/li&gt;
+  &lt;li&gt;Open up the application and sign up for an account&lt;/li&gt;
+  &lt;li&gt;Start reading&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;where-can-i-get-a-copy-of-the-books-on-the-application&quot;&gt;Where can I get a copy of the books on the application?&lt;/h3&gt;
+&lt;p&gt;For now, we are using free and openly available books from &lt;a href=&quot;https://www.gutenberg.org/&quot;&gt;Project Gutenberg&lt;/a&gt;. We are currently in the process of adding more books. You can find a PDF copy of the books on this page.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;The Tale of Peter Rabbit&lt;/em&gt; by Beatrix Potter &lt;a href=&quot;http://learn.media.mit.edu/mlw/assets/TheTaleofPeterRabbit.pdf&quot;&gt;[PDF link]&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;issues-troubleshooting&quot;&gt;Issues, Troubleshooting?&lt;/h3&gt;
+&lt;p&gt;Please keep in mind that this is an alpha release. There are bound to be bugs in the application. If you find any, please don’t hesitate to &lt;a href=&quot;http://learn.media.mit.edu/mlw/contact&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Askii as an API</title>
+    <link href="http://learn.media.mit.edu/updates/askii/askii_as_an_api.html"/>
+    <updated>2015-04-19T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates/askii/askii_as_an_api</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;As we built the SMS and mobile webpage learning system discussed in the post, &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates,/askii/creating_askii.html&quot;&gt;Creating Askii&lt;/a&gt;, we found we were most interested the algorithms behind the system. What are the algorithms that work best for interleaving review content? How do we do this in a short, confined timespan that is often needed in adult learning?&lt;/p&gt;
+
+&lt;p&gt;Given this interest, we divided the Askii concept into two parts:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The client-side applications, which include the SMS and mobile webpage system for on-the-go learning.&lt;/li&gt;
+  &lt;li&gt;The back-end, which is an API (application programming interface) for question and answer learning.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;More about this API will be coming out soon, including details of the API design. And it will all be open-source. So please check back for more details.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Looking for Libranet Content</title>
+    <link href="http://learn.media.mit.edu/updates,/libranet/libranet-choosing-content.html"/>
+    <updated>2015-04-09T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates,/libranet/libranet-choosing-content</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;After &lt;a href=&quot;/mlw/updates,/libranet/the_new_libranet.html&quot;&gt;redefining the goals of Libranet&lt;/a&gt; we needed to start looking for content!&lt;/p&gt;
+
+&lt;p&gt;To begin, we wanted to get a better sense of what kinds of basic education online learning content was out there. Because one of our other prototypes, &lt;a href=&quot;/mlw/read-out-loud/&quot;&gt;Read Out Loud&lt;/a&gt;, is focused on developing basic literacy skills, we decided to narrow our search to basic numeracy content that was available freely online.&lt;/p&gt;
+
+&lt;p&gt;After a quick initial search for online and offline adult basic education courses designed to teach basic numeracy, we noticed that many courses had the explicit goal of preparing learners to take the GED (or other high school equivalency exam) and/or a college placement exam (e.g. COMPASS or Accuplacer). With this in mind, we defined our target learners as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Individuals who are not college-ready, needing remedial math to prepare for the GED or a college placement exam.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Next, we defined our content selection criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Length&lt;/strong&gt;: Can the content be easily chunked into a 6-8 week study path?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cost&lt;/strong&gt;: Is the content free and openly available to anyone with a computer and internet access?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Format&lt;/strong&gt;: Is the content preformatted into a coherent course of study?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality of instruction&lt;/strong&gt;: Is the content’s instruction high-quality and designed for an adult learning audience? Is the instruction interface easy to navigate?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality of feedback&lt;/strong&gt;: Does the content provide mechanisms for delivering meaningful and helpful feedback to users?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality of assessments&lt;/strong&gt;: Are the assessments easy to use? Do the assessments adapt to learner needs and enhance the learning experience?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With our target learners and content selection criteria defined, we set out to compile a list of potential content to choose from. However, this search process proved to be much more difficult than we initially anticipated. There really isn’t much online learning content out there that falls into the basic education category. The majority of course offerings start at the university level, and those that do focus on basic education topics are often explicitly designed for a high school audience, a feature that can be discouraging for adult learners. And even some of the basic math courses that we found to be intentionally built for an adult audience were unnecessarily “kiddie-fied” in their design.&lt;/p&gt;
+
+&lt;p&gt;Yet despite some of these initial findings, we were able to identify three potential choices for content: &lt;a href=&quot;https://edready.org/home&quot;&gt;EdReady&lt;/a&gt;, &lt;a href=&quot;https://www.khanacademy.org/math&quot;&gt;Khan Academy Math&lt;/a&gt;, and &lt;a href=&quot;https://www.udacity.com/course/intro-algebra-review--ma004&quot;&gt;Udacity’s Intro Algebra Review&lt;/a&gt;. To choose between these three, we used a decision matrix and the six selection criteria defined above. We assigned a weighting to each criterion, with the constraint that the total weighting score be equal to 10. Then, we rated each potential choice as to how well it achieved the criteria on a scale from 1-3 (1= slight extent, 2= some extent, 3= great extent). Finally, we applied the weighting to each individual score and summed them up to get overall scores for each of the choices.&lt;/p&gt;
+
+&lt;p&gt;Here you can see our final matrix:&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;/mlw/images/libranet-decision-matrix.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;With a score of 25, Khan Academy Math emerged as the winner. And if we look closely at the decision matrix, we can see that Khan Academy’s high quality of feedback and assessment were the two criterion that really set this solution out from the others. Khan Academy uses an adaptive web-based exercise system that generates problems for the user based on performance. These exercises also feature a fairly robust system of hints that allow the user to get help when they are struggling with a problem. Neither Udacity’s Intro Algebra course nor EdReady featured practice problems and assessments that we felt were this helpful to the learner. In fact, EdReady’s initial diagnostic test takes at least an hour to complete and makes it so that the learner never receives any feedback on how she did. With this as the first step in using the EdReady platform, we were worried that many learners might get overly discouraged, resulting in EdReady’s score of 1 in Assessment. So while EdReady had a great score in Instruction because of its contextual videos used for lesson introductions, its overall score was the lowest because of feedback and assessments. Udacity’s Intro Alegebra Review performed moderately well in most categories, with its most impressive feature being its format as a structured weekly course. But again, with fairly standard assessment and feedback, it did not surpass Khan Academy in overall score.&lt;/p&gt;
+
+&lt;p&gt;Given these results, we are planning to move forward with using Khan Academy Math for our initial pilot round. In the coming weeks, we will be playing around more with this platform and exploring how we might tailor the math content to align with the GED curriculum. 
+In the future, we plan on revisiting the selection criteria defined here and tweaking them, given all that we will have learned from the pilot. It is very likely that our current criteria are skewed toward what we think will work best, and the hope is that as we try this out, we will be able to make better decisions about what types of content work best for small study groups of adult learners.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>The New Libranet</title>
+    <link href="http://learn.media.mit.edu/updates,/libranet/the_new_libranet.html"/>
+    <updated>2015-04-02T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates,/libranet/the_new_libranet</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Last May, libraries emerged as a &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates/themes-from-the-ideashop.html&quot;&gt;theme&lt;/a&gt; from our kick-off &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates/adult-learning-innovations-workshop.html&quot;&gt;Making / Learning / Work Ideashop&lt;/a&gt;. Using libraries as spaces for adult learning seemed obvious. They are free, open community spaces with a focus on access and intellectual growth. But our participants noted that libraries are currently underutilized for adult learning solutions. These observations led to one of our initial ideas: Libranet. In its &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates,/libranet/libranet-initial-concept.html&quot;&gt;initial conception&lt;/a&gt;, Libranet was a platform for job-search at the library. The system would provide patrons with goal-setting support and access to fellow job-seekers. Since May, the idea has shifted and morphed a bit, but libraries remain at the heart of it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reworking the Initial Idea&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For generations, libraries have played an integral role in local communities around the world. But in today’s digital age, libraries are seeking to reinvent themselves. Gone are the days of books and cataloging, says R. David Lankes in &lt;a href=&quot;http://mitpress.mit.edu/books/atlas-new-librarianship&quot;&gt;The Atlas of New Librarianship&lt;/a&gt;. Instead, he suggests a new mission for libraries: &lt;em&gt;“to improve society through facilitating knowledge creation in their communities.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Running in parallel to these efforts has been a surge in online learning initiatives. In the past few years, a wealth of learning content has come online in the form of Massive Open Online Courses (MOOCs). These courses and materials are freely available to anyone with a computer and internet access; however, they are being severely underutilized by and for adult learners. This can be at least partially explained by the design of such courses. Often, they can be isolating experiences, with the majority of interaction typically taking place between a learner and his/her computer. This makes it incredibly hard for learners to stay motivated and engaged with challenging material and incredibly easy for them to give up in frustration. So while ease of access and low costs make MOOCs appealing for adult learning, in reality, their lack of learner support makes it hard for all but the most driven adult learners to benefit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The New Libranet&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With these observations in mind, the new Libranet emerged: &lt;strong&gt;How might we leverage libraries as open community spaces to provide adult learners with the support they need to make it through a MOOC?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The new Libranet is a model for facilitating in-person study groups at community libraries, organized around open online learning courses and content. On top of these materials, the model will scaffold a community learning environment to actively foster academic mindsets that are critical to deeper learning and future success of adult learners.&lt;/p&gt;
+
+&lt;p&gt;To begin this project, we are collaborating with &lt;a href=&quot;https://p2pu.org/en/&quot;&gt;Peer 2 Peer University&lt;/a&gt; and &lt;a href=&quot;http://www.chipublib.org/&quot;&gt;Chicago Public Libraries&lt;/a&gt;. We hope to start running the first study group in May 2015.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Creating an SMS Learning System with Askii</title>
+    <link href="http://learn.media.mit.edu/updates/askii/creating_askii.html"/>
+    <updated>2015-03-06T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates/askii/creating_askii</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Askii began first as a mobile application called “XpressMe”, which originated from &lt;a href=&quot;/mlw/xpress-me/&quot;&gt;one of the ideas&lt;/a&gt; at the IdeaShop in May 2014.&lt;/p&gt;
+
+&lt;h3 id=&quot;initial-prototyping&quot;&gt;Initial Prototyping&lt;/h3&gt;
+
+&lt;p&gt;In January 2015, we created a first prototype of XpressMe, which was a mobile app that would deliver basic numeracy content in small chunks of time that  a learner could utilize on their commute.&lt;/p&gt;
+
+&lt;h3 id=&quot;re-thinking-the-concept&quot;&gt;Re-Thinking the Concept&lt;/h3&gt;
+
+&lt;p&gt;However, in February, we decided to re-think the idea after hearing from experts in the field that we might want to focus on a system that delivers certification content, not basic numeracy content, as it is more natural to read on the go than do math (makes logical sense).&lt;/p&gt;
+
+&lt;p&gt;When re-thinking “XpressMe”, I was fortunate enough to have a conversation with Alison from &lt;a href=&quot;http://www.celled.org/&quot;&gt;Cell-Ed&lt;/a&gt;, where we talked about some of the technological barriers that learners may have to using an application such as “XpressMe”. Alison explained Cell-Ed’s rationale for using an SMS-based system, and gave me inspiration to think through what “XpressMe” would look like as a system that blended SMS and mobile website content.&lt;/p&gt;
+
+&lt;p&gt;Some of the advantages for creating an SMS-based system:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It would not limit the user group to only adult learners with smart phones, but would allow learners with feature phones to interact with the application as well.&lt;/li&gt;
+  &lt;li&gt;Learners may feel like they are interacting with a real person&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fleshing-out-the-idea&quot;&gt;Fleshing out the Idea&lt;/h3&gt;
+
+&lt;p&gt;I began to think about how we could deliver certification content on-the-go, and honed in on creating a combined SMS and web-based system for helping learners study for exams such as the CPT Exam while on their commutes. As initial test material, I chose the US Naturalization Exam because it is an exam with publicly available study guides.&lt;/p&gt;
+
+&lt;p&gt;My initial thought processes for what the system would behave like is shown below, with lots of arrows indicating a learner’s discussion with the service via SMS and web.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/mlw/images/askii_user_flow.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+
+&lt;h3 id=&quot;prototyping-again&quot;&gt;Prototyping Again&lt;/h3&gt;
+
+&lt;p&gt;From these system flow charts, I then translated them into a first prototype, which we have named “Askii”. Askii is built on &lt;a href=&quot;http://twilio.com&quot;&gt;Twilio&lt;/a&gt;, which gives it the ability to interact via a mobile phone number. The logic of the application, which is running in the background as a external API that interfaces with a Twilio app, is written in Node.js with a Mongoose database of questions, answers, and content.&lt;/p&gt;
+
+&lt;p&gt;The prototype is up and running, and &lt;em&gt;very soon&lt;/em&gt; there will be a demo video of the system on our site.&lt;/p&gt;
+
+&lt;p&gt;For now, here is a screen shot as a placeholder.&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;/mlw/images/askii_on_iphone.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;In the coming months, we will be fleshing out this prototype and focusing on improving the algorithms behind what the learner sees, with the hopes of beginning user testing this summer to better understand how learners could study certification content on-the-go.&lt;/p&gt;
+
+&lt;p&gt;Askii is meant to be a system that can be used for all sorts of certification content, so if you have more suggestions for content you would like to see put in the system or thoughts on potential collaborations, please feel free to leave a comment or reach out to us by email.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Testing Read Out Loud in the Classroom</title>
+    <link href="http://learn.media.mit.edu/updates,/rol/rol_user_testing.html"/>
+    <updated>2015-03-05T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates,/rol/rol_user_testing</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;On March 3rd, Srishti and I went to a ESOL school for adult learners in East Boston, Massachusetts, to get the students’ feedback on the newest iteration of the Read Out Loud prototype.&lt;/p&gt;
+
+&lt;h3 id=&quot;first-some-photos-from-the-afternoon&quot;&gt;First, Some Photos from the Afternoon&lt;/h3&gt;
+&lt;center&gt;
+    &lt;iframe id=&quot;iframe&quot; src=&quot;http://flickrit.com/slideshowholder.php?height=300&amp;amp;width=500&amp;amp;size=medium&amp;amp;setId=72157648945767513&amp;amp;thumbnails=0&amp;amp;transition=0&amp;amp;layoutType=fixed&amp;amp;sort=0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; width=&quot;500&quot; height=&quot;310&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;introductions&quot;&gt;Introductions&lt;/h3&gt;
+
+&lt;p&gt;When we arrived at the classroom, we introduced ourselves to the students and they did the same. The class was comprised of 6 women from El Salvador and one woman from Algeria, all of which had been studying English at this school for over 6 months. We recognized many of them, as they had been in the class &lt;a href=&quot;/mlw/updates,/rol/visit_to_esol_classroom.html&quot;&gt;when we visited in Novemberr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;framing-the-testing&quot;&gt;Framing the Testing&lt;/h3&gt;
+
+&lt;p&gt;We began the user testing by giving a little bit of introduction as to why we created Read Out Loud and asked for their help testing the app and giving us feedback on what we could change to make it better. We them showed a quick tutorial video in Spanish that demonstrates the capabilities of the app. (This video was made instead of a welcome tutorial, as we have not fleshed out the welcome tutorial to the application yet.)&lt;/p&gt;
+
+&lt;h3 id=&quot;letting-the-learners-explore&quot;&gt;Letting The Learners Explore&lt;/h3&gt;
+
+&lt;p&gt;Next, we passed out iPhones and iPad Minis with Read Out Loud pre-installed and copies of &lt;em&gt;The Very Hungry Caterpillar&lt;/em&gt; by Eric Carle, which was the book we had chosen for testing.&lt;/p&gt;
+
+&lt;p&gt;They began by splitting off into all corners of the room (since Read Out Loud makes noise and it was easier for multiple learners to test individually this way). They then customized their language preferences and opened the book. We began to here the app’s computerized voice fill the room.&lt;/p&gt;
+
+&lt;p&gt;We purposefully did not walk learners through all the capabilities of the app, since we wanted to see what features were intuitive for them to discover and which they liked the best. It was only about five minutes into the testing when learners realized that they could click on the words to get the translation in their native language. Once on of them found this feature, news spread like wildfire and soon we could here translations being read aloud.&lt;/p&gt;
+
+&lt;p&gt;We could hear students all over the room sounding out words, reading along with the app’s voice, and looking up words. There were no major problems with the app’s infrastructure (i.e. it didn’t crash), which was a huge relief, as this was the first time we were testing it with multiple users at once.&lt;/p&gt;
+
+&lt;h3 id=&quot;feedback-from-the-learners&quot;&gt;Feedback from the Learners&lt;/h3&gt;
+
+&lt;p&gt;After they played with the app for twenty minutes, we had time to reflect on the app as a group. Learners volunteered what they liked and did not like about the app and the learning experience.&lt;/p&gt;
+
+&lt;p&gt;The main points are summarized here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;They reiterated the point from our last visit: they would love a way to practice reading books that they would like to read with their children.&lt;/li&gt;
+  &lt;li&gt;They felt that they would rather use the app themselves, as a way to practice before reading with their kids, than use the application while reading with their children.&lt;/li&gt;
+  &lt;li&gt;They would also use the application for other texts besides storybooks. One learner mentioned that she would like to scan in &lt;em&gt;Harry Potter&lt;/em&gt; so that she could finally read it in English.&lt;/li&gt;
+  &lt;li&gt;They loved the “translation lookup” capability, but did not know where to find the translation lookup at first.&lt;/li&gt;
+  &lt;li&gt;They preferred looking up words and hearing the translation of the word read aloud to listening to the entire sentence, though they found both functionalities useful.&lt;/li&gt;
+  &lt;li&gt;While Google Translate does a pretty good job of translating Spanish words, it struggled with the English to Arabic translation and gave incorrect answers for many simple nouns.&lt;/li&gt;
+  &lt;li&gt;They did not find the voice annoying (Yay!)&lt;/li&gt;
+  &lt;li&gt;They found the speed of the voice perfect when they were reading along with the app, but too fast when they did not have the text in front of them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;next-steps-from-this-user-testing&quot;&gt;Next Steps from this User Testing&lt;/h3&gt;
+
+&lt;p&gt;We plan on potentially doing one more round of user testing with adult learners and their children together, to observe if the application works in their context.&lt;/p&gt;
+
+&lt;p&gt;As many learners have Android phones (which the voice currently is not compatible with), we are currently porting the application over to Android, incorporating the feedback from these learners in the new iteration. We will be returning in May to do a longer iteration of user testing with these students once the app is on the Google Play store. For this testing, we will be putting in some of the books that they use in their class, so that we can observe how Read Out Loud works as an aide for learners in an ESOL classroom setting.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Is This The Future of Adult Learning?</title>
+    <link href="http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning.html"/>
+    <updated>2015-02-03T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates/is_this_the_future_of_adult_learning</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Reblogged from the &lt;a href=&quot;https://www.edsurge.com/n/2015-01-15-is-this-the-future-of-adult-learning&quot;&gt;EdSurge article&lt;/a&gt; on Making / Learning / Work by Taylor Bennett&lt;/p&gt;
+
+&lt;p&gt;How does the MIT Media Lab develop its adult learning tools? By envisioning them as scaffolding constructed to support learning, according to Juliana Nazare, Masters student at MIT and research assistant for the projects.&lt;/p&gt;
+
+&lt;p&gt;In May of 2014, under the auspices of the Joyce Foundation, a group of researchers, entrepreneurs and adult learning experts convened at the MIT Media Lab to discuss visions for the role of technology in the future of adult education. Several themes emerged around improving literacy and earning power for two groups of adult learners: those learning English for the first time, and those who have grown up speaking English, but may still struggle with literacy skills.&lt;/p&gt;
+
+&lt;p&gt;The primary themes focused on 1) the need to reframe adult learning from a perspective of learner autonomy and creativity, 2) the need to create alternative education pathways for adults that address constraints such as time, concern for family, and differences in motivation between child students and adult learners, and 3) the need for human support and mentorship.&lt;/p&gt;
+
+&lt;p&gt;With these guiding principles in mind and with a mission to make the information adult learners consume more intuitive and accessible –as opposed to addressing the curriculum itself– researchers began strategizing ways to circumvent current barriers such as language and time, and putting learners in charge of their own education.&lt;/p&gt;
+
+&lt;p&gt;Three of roughly twenty-five initial ideas came to the forefront: Read Out Loud, Express Me, and Citizen Tutoring.&lt;/p&gt;
+
+&lt;h3 id=&quot;families-learning-together&quot;&gt;Families Learning Together&lt;/h3&gt;
+
+&lt;p&gt;Read Out Loud, the most developed project to-date, was born out of conversations with adult learners about their motivations for improving literacy. In addition to improving employment and earning power, the majority felt a strong desire to actively engage in the education of their children, most of whom attend schools taught in English. Read Out Loud is a tool originally designed to take the simple educational activity of reading children’s books aloud and turn it into an opportunity for parents and children to learn together.&lt;/p&gt;
+
+&lt;p&gt;An interactive application, Read Out Loud allows the user to scan any book and view the text in English and any other language side by side, creating a sort of “cheat-sheet” that they can refer to while reading to their kids. Parents are able to engage in this important part of their children’s education and play the role of teacher, while engaging in learning themselves. The simple sentence structure and vocabulary typical of children’s books is excellent for improving literacy among children and does the same thing for parents.&lt;/p&gt;
+
+&lt;p&gt;Perhaps most importantly, Read Out Loud tackles one of the primary themes identified by experts: empowering learners to have agency and creativity in their own education. Since its inception this technology has evolved enough to tackle any sort of reading material, giving adult learners even more options for use of this tool. Users focus on relevant material, by choosing the stories they want to read to their children and selecting information integral to employment opportunities. Learners have autonomy over improving general skills as well as increasing earning potential. The next iteration of Read Out Loud may include the ability to scroll over words to see a definition or add words to a vocabulary list to refer to later.&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/114384414&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;learning-while-commuting&quot;&gt;Learning While Commuting&lt;/h3&gt;
+
+&lt;p&gt;Still early in the development process, Express Me addresses another one of the major themes for adult education by creating an alternative educational pathway through mobile learning apps that capitalize on the only free time many adult learners have: their commute. Creating bite sized learning modules with content reinforcing skills for professional certification, Express Me will turn any bus, train, or carpool into a classroom that learners can use to improve skills and credentials.&lt;/p&gt;
+
+&lt;p&gt;A key feature of this app employs interactive visual input to circumvent the need for lengthy text. One problem with similar tools is the tendency to be text heavy, making them prohibitive for adults who are learning English as a second language or who struggle with literacy. Using interactive visual input to teach learners how to measure volume, for example, rather than presenting a paragraph of text, provides learners of many literacy levels access to pertinent information. Express Me will also include a component enabling learners working on the same certifications or courses in the same geographic area to connect with each other.&lt;/p&gt;
+
+&lt;h3 id=&quot;senior-citizen-tutors&quot;&gt;Senior Citizen Tutors&lt;/h3&gt;
+
+&lt;p&gt;Though Citizen Tutoring is the least developed of these ideas, it still possesses incredible potential. Envisioned as a way to connect adult learners with senior citizen tutors via the Internet, this idea aims to provide learners with much needed tutoring and mentorship, and seniors with an opportunity to capitalize on their wealth of knowledge and gain valuable tech skills, all while giving back to their communities. Still in its very early stages, the future of Citizen Tutoring is imagined as a means through which existing online tools can support senior tutors as they provide valuable mentoring and skill building to both groups of adult learners, supporting those transitioning to life in the United States and those who have struggled with the traditional education system. Researchers continue to conceptualize new ways to incorporate the use of public spaces such as libraries and organizing learners and tutors into geographically local groups into this project.&lt;/p&gt;
+
+&lt;p&gt;Much of the success of these projects will be their scalability for use by a wide range of adult learners. Whether they will be available via popular sites such as the App store or iTunes is still up for debate, Nazare says. Read Out Loud is currently in the user testing phase and will need to undergo beta testing and a private release before it can be made publicly available.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Rough Prototyping Update</title>
+    <link href="http://learn.media.mit.edu/update,/rol/rough_prototyping_update.html"/>
+    <updated>2014-10-28T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/update,/rol/rough_prototyping_update</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Over the past few weeks, we have been working on a new edition of the “storyteller” prototype, which I want to introduce briefly here. Back in September, we posted about our &lt;a href=&quot;http://learn.media.mit.edu/mlw/updates/rough-prototyping.html&quot;&gt;very rough prototype&lt;/a&gt;, which gave a proof of concept that what we wanted to do was technically feasible and explain the rationale for the prototype.&lt;/p&gt;
+
+&lt;p&gt;Using this as a jumping off point, we then made a prototype that functions on the phone, which can be seen in the demo video below.&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/109415916&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;This prototype functions in the browser, running locally on my computer. The next step will be to put it online in a manner that allows for it to be used as both a web app and as an iOS/Android application (using a Cordova / PhoneGap wrapper), and then co-designing with adult learners.&lt;/p&gt;
+
+&lt;p&gt;We have already received some initial feedback, both about the functionality and the pedagogy behind the idea.
+On the functionality side, we know that we need to make it more error-proof before it is used by learners, providing more routes to allow learners to retake photos that don’t translate well and more natural language processing to ensure that the text the reader is presented is, in fact, correct.&lt;/p&gt;
+
+&lt;p&gt;On the pedagogy side, we need to add a way to listen to words out loud as they are clicked. We also would like to explore the possibility of having learners be able to record their own voices to check if their pronunciation of the word or sentence is correct.&lt;/p&gt;
+
+&lt;p&gt;As always, if you have any feedback, please feel free to send it my way. More coming soon!&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Visit to an ESOL class for parents</title>
+    <link href="http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom.html"/>
+    <updated>2014-10-22T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates,/rol/visit_to_esol_classroom</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Last week, I went to sit in on an intermediate ESOL class for parents at a local elementary school in Boston. I wanted to quickly post my findings from the class.&lt;/p&gt;
+
+&lt;p&gt;At the beginning of the class, we did quick introductions. Of the eight students in the class, all were women. Seven out of the eight students were from Latin America (El Salvador in particular) and one from Egypt. They all had kids - their ages spanned from 10 months old to over 18. When I asked where their kids were, I learned that the ESOL program provides free childcare to all children over one year old (which explained why a ten-month-old baby was sitting in class with her mother).&lt;/p&gt;
+
+&lt;p&gt;We did a straw poll survey to see which students in the class had smart phones, and which had significant others at home who spoke (any) English. Six out of the eight students owned smart phones; four had Androids and two had iPhones. All of the students lived with a significant other, but only one wavering hand was raised when we asked if any of them spoke enough English to help them with their ESOL homework.&lt;/p&gt;
+
+&lt;p&gt;We also asked why they wanted to learn English. Overwhelmingly, the answer was “to get a job”. One added in that, besides getting a job, she wanted to be able to help her son with homework. Another said that English was the language of America. Since she lives here, she wants to learn English.&lt;/p&gt;
+
+&lt;p&gt;Fast forward to the lesson of the day - vocabulary that parents need to know to understand the basics of applying to college. On the vocabulary list was “tuition”, “dorm”, “major”, “associates degree”, and “scholarship”. We listened to a recording of a school counselor’s meeting with a parent to discuss what options her daughter had after graduation and answered questions about what was discussed.&lt;/p&gt;
+
+&lt;p&gt;At snack time, a few of the students asked me if I could show them what I was working on, so I showed them a very early prototype of the storyteller app. They loved the idea, and one of them even went to search “storyteller” on the app store before I got the chance to explain that it is still in the prototype stage.&lt;/p&gt;
+
+&lt;p&gt;At the end of the class, the teacher asked her students to each take home a storybook to read – apparently this is something that they do every week. Walking out of the class, one of the women came over to introduce me to her 5-year-old daughter. The daughter spoke very good English, and stuck her hand out to say hello and shake my hand.&lt;/p&gt;
+
+&lt;p&gt;In that short, 2 hour time period, I learned a ton about some of the technology and methods used to teach adult ESOL, learned about the students - their backgrounds, their motivations for learning English, and their access to technology. Once I am father along in the prototyping of Storyteller, I’m excited to go back to the class and test out our storyteller prototype.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Rough Prototyping</title>
+    <link href="http://learn.media.mit.edu/updates,/rol/rough-prototyping.html"/>
+    <updated>2014-09-22T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates,/rol/rough-prototyping</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;In this post, we will focus on “Storyteller”, one of the ideas we have been working on to prototype how technology can help adult learners with very basic literacy and numeracy.&lt;/p&gt;
+
+&lt;p&gt;Over the past few weeks, we’ve been working on a &lt;em&gt;very&lt;/em&gt; rough prototype of Storyteller, as well as fleshing out the idea, user experience, and research questions.&lt;/p&gt;
+
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+
+&lt;p&gt;Storybooks can be used to engage English language learners of any age. In particular, incorporating storybook reading into adult ESOL (English for Speakers of Other Languages) curricula can help adult learners:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn material that has meaning outside of the ESOL classroom and can inspire family collaboration.&lt;/li&gt;
+  &lt;li&gt;Access ESOL education outside of the class, as they can substitute free or inexpensive storybooks for pricey workbooks.&lt;/li&gt;
+  &lt;li&gt;Practice English language pronunciation with a wide variety of vocabulary, as there are more storybooks than workbooks readily available.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, reading and practicing pronunciation on their own can be difficult for learners. So we want to built a technological solution that helps adults practice their reading and pronunciation, allowing them to read along with an English speaker’s voice and imitate their pronunciation. This attempts to emulate how kids learning English practice reading with their parents, following along with their voice and imitating their pronunciation of words.&lt;/p&gt;
+
+&lt;p&gt;In thinking about how we want to engage adult learners (our user group) with technology, we opted to use a smartphone, as many adult learners have access to one and it can easily be moved to interact with a physical storybook. One concern we have heard from many educators is that they view the storybook reading experience on paper to be special. Their students enjoy thumbing through big pages and looking at the beautiful pictures. These pictures provide context for the words on the page, allowing learners to discover the meaning of the words themselves as they make associations between the pictures and the text. So we aimed to hold on to that experience in Storyteller’s user experience.&lt;/p&gt;
+
+&lt;h3 id=&quot;walkthrough&quot;&gt;Walkthrough&lt;/h3&gt;
+
+&lt;p&gt;Imagine an adult learner just checked out a new storybook from the library. She sits down to read it, but needs a little bit of facilitation in order to get a meaningful learning experience out of thumbing through the book’s pages. She takes a picture of the book’s cover. Immediately, either:&lt;/p&gt;
+
+&lt;p&gt;A copy of the book’s cover appears on her screen, indicating that someone has already read this book and the text and audio from the book is in the app’s system. She clicks “start” to begin the learning experience. The book begins reading the page out loud in a human voice.&lt;/p&gt;
+
+&lt;p&gt;-or-&lt;/p&gt;
+
+&lt;p&gt;She is asked to use her phone’s camera to take a photo of the first page of the book, as the book is not in the app’s system. She then clicks “start” to begin the learning experience. The book begins reading the page out loud in a somewhat computerized voice.&lt;/p&gt;
+
+&lt;p&gt;Once the page is done reading, she is able to review the text, practice English pronunciation through a system similar to Duolingo or Rosetta Stone’s voice matcher, and listen to / view the translation in her native language side-by-side with the English text in order to provide context for the words on the page.&lt;/p&gt;
+
+&lt;p&gt;This continues on for the remainder of the book, prompting the learner to photograph the page before reading if the book has not been input into the app’s system. Once the storybook is done, if the story has not been previously input into the system, the program uses &lt;a href=&quot;http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk&quot;&gt;Amazon Turk&lt;/a&gt; to crowdsource the spell-checking and recording of a human-voice version of the story. Once the Amazon Turk task is completed, the storybook’s data is input into the app’s system. Next time a learner searches for this book, it will have a human voice and translation.&lt;/p&gt;
+
+&lt;h3 id=&quot;rough-prototype&quot;&gt;Rough Prototype&lt;/h3&gt;
+
+&lt;p&gt;To test if the idea was feasible, we built a &lt;em&gt;very&lt;/em&gt; rough prototype on the computer, utilizing opensource OCR (optical character recognition), translation, and speech packages. After the user takes a photo, we send it directly from the photo to the computer with no editing.&lt;/p&gt;
+
+&lt;p&gt;To get into the technical details, in one script…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We convert the image from the JPG to the TIF format so that it can be read into the Tesseract OCR package.&lt;/li&gt;
+  &lt;li&gt;We run OCR on the image using the Tesseract package, which returns the almost-perfect text.&lt;/li&gt;
+  &lt;li&gt;We run a little bit of our own natural language processing (removing page numbers, weird double punctuations etc).&lt;/li&gt;
+  &lt;li&gt;We use the Mac OSX “voice” to read the text out loud in English.&lt;/li&gt;
+  &lt;li&gt;We send the text to Google translate and request to translate the text into a user’s native language.&lt;/li&gt;
+  &lt;li&gt;Once we get the translated text back from Google, we read it out loud in the user’s native language using the correct speech pronounciation packages, allowing the user to view and hear the text in their native language alongside the English to provide context.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We were suprised at how well this rudimentary script worked. To give you an idea, here is a short demo.&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/106844197&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;And here are a few photos from storybooks that we ran. Note: In this case the user’s native language is German.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mlw/images/storyteller_rough_prototype/corduroy.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;English: tables and chairs and lamps and sofas, and rows and rows of beds. This must be a palace! Corduroy gasped. I guess IVe always Wanted to live in a palace.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;German: Tische und Stühle und Lampen und Sofas, und Reihen von Betten. Das muss ein Schloss! Cord schnappte nach Luft. Ich denke, IVe wollte immer in einem Palast leben.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mlw/images/storyteller_rough_prototype/seuss2.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;English: And some are very, Very bad. Why are they sad and glad and bad? I do not know. Go ask your dad.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;German: Und einige sind sehr, sehr schlecht. Warum sind sie traurig und froh und schlecht? Ich weiß nicht. Gehen fragen Sie Ihren Vater.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mlw/images/storyteller_rough_prototype/the_very_hungry_caterpillar.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;English: On Saturday he ate through one piece of chocolate cake, one ice-cream cone, one pickle, one slice of Swiss cheese, one slice of salami,&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;German: Am Samstag durch ein Stück Schokoladenkuchen aß er, eine Eistüte, eine Gurke, eine Scheibe Schweizer Käse, eine Scheibe Salami,&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mlw/images/storyteller_rough_prototype/where_the_wild_things_are.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;English: Now stop! Max said and sent the wild things off to bed without their supper. And Max the king of all wild things was lonely and wanted to be where someone loved him best of all.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;German: Jetzt stoppen! Max sagte und schickte die wilden Kerle ins Bett, ohne ihr Abendessen. Und Max, der König aller wilden Kerle war einsam und wollte dort sein, wo ihn jemand am besten von allen geliebt.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;possible-directions&quot;&gt;Possible Directions&lt;/h3&gt;
+
+&lt;p&gt;A few things we’ve begun to explore simultaneously are:&lt;/p&gt;
+
+&lt;p&gt;Can we modify the script to translate text to English for storybooks in learner’s native language? Is the translation good? This would be useful if a learner has a favorite storybook that they already know in their native language.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mlw/images/storyteller_rough_prototype/mitzekaetchen.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Can we modify the script to allow learners to author their own storybooks by coloring in letters and illustrations? For example, one attempt is shown below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mlw/images/storyteller_rough_prototype/onefish.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;English: ONE FISH l TWO FISH 1 RED FISH BLUE FISH&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;German: Ein Fisch zwei Fische 1 l Red Fish Blue Fish&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We are pretty excited to keep fleshing out this idea. On the technical side, the next steps will be to do a better job detecting the image in the first place. We are looking into many image technology improvements such as using and &lt;a href=&quot;http://scikit-image.org/docs/dev/auto_examples/plot_canny.html&quot;&gt;Canny Edge Detector&lt;/a&gt; to grab edges of photograph, and brightness / contrast filters to help with OCR readability.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Narrowing down the ideas</title>
+    <link href="http://learn.media.mit.edu/updates/narrowing-down-ideas.html"/>
+    <updated>2014-08-11T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates/narrowing-down-ideas</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;h3 id=&quot;section&quot;&gt;15 &amp;gt; 5 &amp;gt; 2-3.&lt;/h3&gt;
+
+&lt;p&gt;That’s the math that we (&lt;a href=&quot;http://learn.media.mit.edu/&quot;&gt;the Learning Over Education team&lt;/a&gt;) have been doing over the past few weeks.&lt;/p&gt;
+
+&lt;p&gt;In all seriousness, we’ve been working on taking the 15 initial ideas created at the &lt;a href=&quot;https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit&quot;&gt;IdeaShop&lt;/a&gt; and whittling them down to five solid ideas. Of these five ideas, we plan to prototype two or three.&lt;/p&gt;
+
+&lt;p&gt;So how did we go about deciding which ideas made the cut? We used a mix of common sense, idealism, and combined them the Media Lab’s own criteria for success: uniqueness, impact, and magic. When we ran the IdeaShop, we asked participants to think of the craziest ideas that might be technologically possible in the next ten years. Now we needed to bring them down to what’s possible to prototype during the next two years. How did we do that?&lt;/p&gt;
+
+&lt;p&gt;We started with the three core measures of success that the MIT Media Lab applies to all of its projects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Uniqueness - Is the idea unique? Is the technology novel and exciting?&lt;/li&gt;
+  &lt;li&gt;Impact - Does it have potential to make a difference in peoples’ lives? Can it scale (without massive investment of resources)?&lt;/li&gt;
+  &lt;li&gt;Magic - Does it make you go wow or smile with delight.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We then added a number of questions that focus on feasibility:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Is the technology mature enough that we can develop a prototype in the next year?&lt;/li&gt;
+  &lt;li&gt;Can the idea be deployed with a small pilot (i.e. doesn’t require critical mass to become useful)?&lt;/li&gt;
+  &lt;li&gt;Have potential partners expressed interest in piloting / deploying it?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We recognize that there are no measurable answers to these questions. So, we went with a YES-MAYBE-NO model, and came up with this colorful matrix. &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1eXhDtdGC55haN32PmeNTSRIdJ7LjzKE2oS8Vtr9kJXI/pubhtml&quot;&gt;[Click here for larger copy]&lt;/a&gt;:&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/mlw/images/criteria_matrix.png&quot; width=&quot;100%&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;What surfaced were seven solid ideas. Seven? But we wanted five… Looking back through the seven descriptions, we realized that DollarCount and Asynchronous Audio didn’t really make sense as stand-alone projects, but could easily be integrated or combined with some of the other projects.&lt;/p&gt;
+
+&lt;p&gt;This brings us to 5… drumroll please…&lt;/p&gt;
+
+&lt;p&gt;They are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/foursquare-for-learning/&quot;&gt;Foursquare for Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/xpress-me/&quot;&gt;Xpress Me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/storyteller/&quot;&gt;Storyteller&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/libranet/&quot;&gt;Libranet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.media.mit.edu/mlw/job-graph/&quot;&gt;The Job Graph&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please check them out and if you have any questions on our process, ideas, or project in general, feel free to reach out to me at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#106;&amp;#117;&amp;#108;&amp;#105;&amp;#097;&amp;#110;&amp;#097;&amp;#064;&amp;#109;&amp;#101;&amp;#100;&amp;#105;&amp;#097;&amp;#046;&amp;#109;&amp;#105;&amp;#116;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Libranet Initial Concept</title>
+    <link href="http://learn.media.mit.edu/updates,/libranet/libranet-initial-concept.html"/>
+    <updated>2014-08-05T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates,/libranet/libranet-initial-concept</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;&lt;em&gt;Beyond book stacks - Utilizing libraries as bridges for meaningful employment&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For generations, libraries have played an integral role in local communities aound the world. As libraries evolve to “facilitate knowledge creation” [1] in the digital age, there are many opportunities to support adult learners in their journeys towards a secure and fulfilling future.&lt;/p&gt;
+
+&lt;p&gt;At many libraries, a large component of web use is job search, especially for those adults who do not have consistent access to the Internet at home or need the support of an intuitive path towards finding work. Indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet seeks to embrace this trend by creating a network facilitated by the library for residents to explore career opportunities and help set their own career goals.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/five_ideas/libranet.png&quot; width=&quot;75%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;When job seekers enter the library, they will log into Libranet on a local computer. Once logged in, they will be able to set and edit goals, search for jobs, and interact with a community of fellow job-seekers.  By doing this, Libranet finds new ways of collecting, extracting, and organizing data in order to make it sharable and actionable and helps find new ways to create value in libraries as community spaces of learning. Elucidating this previously hidden network of job seekers could lead to physical meet-ups, peer support groups, and perhaps skills building needs that the library could organize workshops around.&lt;/p&gt;
+
+&lt;p&gt;With Libranet, libraries benefit because they obtain information about the skills employees have and the skills employers seek and then design seminars to match employees and employers (job training, information sessions, interviews). Employers may be prompted to come in for info sessions, interview practice, skills training, resume review, etc. For them the benefit is threefold: They get access to potential employees, gain professional development as teachers, and have the opportunity to increase brand awareness in local community. By expanding job search as a service at the library, librarians will also be able to serve their clients more effectively.&lt;/p&gt;
+
+&lt;p&gt;[1] R. David Lankes, &lt;a href=&quot;http://mitpress.mit.edu/books/atlas-new-librarianship&quot;&gt;The Atlas of New Librarianship&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;update&quot;&gt;08/13/14 Update&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Q.&lt;/strong&gt; What can we do to give users immediate feedback after that register for Libranet?&lt;/p&gt;
+
+&lt;p&gt;Once they fill out a short profile, we could immediately present them with jobs targeted at the skill set they already have. We could also display a list of jobs they would need to acquire skills to obtain. Presented with this list would be a “gap analysis” of skills they need to develop for these jobs and steps to obtaining them. This could lead to partnerships with local community colleges, ESOL programs, etc.&lt;/p&gt;
+
+&lt;h3 id=&quot;update-1&quot;&gt;08/26/14 Update&lt;/h3&gt;
+
+&lt;p&gt;Thoughts to keep in mind:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A huge plus for libraries is they are already a public destination that people can access&lt;/li&gt;
+  &lt;li&gt;To what extent will library workers have access to Libranet? And how will this be balanced with patron privacy?&lt;/li&gt;
+  &lt;li&gt;Creating partnership with local community colleges, ESOL programs, etc. should be an integral part of Libranet&lt;/li&gt;
+&lt;/ul&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Initial Ideas</title>
+    <link href="http://learn.media.mit.edu/pages/initial-ideas.html"/>
+    <updated>2014-07-10T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/pages/initial-ideas</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;These ideas were created by participants of the IdeaShop (held at the MIT Media Lab in May 2014). They are currently in rough draft form. We welcome any feedback and questions you have as we work to refine these ideas.&lt;/p&gt;
+
+&lt;h3 id=&quot;real-machinists-of-detroit&quot;&gt;1. Real Machinists of Detroit&lt;/h3&gt;
+
+&lt;p&gt;Real Machinists of Detroit pairs skilled, unemployed workers with the needs of a city. RMD identifies a group of workers who have been laid off and matches them with real projects. It capitalizes on their existing skills whilst allowing them to develop new skills necessary to take on modern challenges in the city. Each group of machinists is supported by a mentor and in charge of managing and implementing a local project that benefits the community at large. For instance, in Detroit there are many skilled machinists who were laid off with the decline of the auto industry whose skills could easily be repurposed to rebuild abandoned public space.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/real_machinists_of_detroit.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;whats-my-path-forward&quot;&gt;2. What’s My Path Forward?&lt;/h3&gt;
+
+&lt;p&gt;“What’s my path forward?” seeks to make promotion within an organization more coherent and transparent, catering specifically to low-skilled workers. In articulating the specific requirements and expectations of jobs within an organization, this idea helps employees who may otherwise feel stagnant in their role and overwhelmed by what is required to be promoted, better manage their own trajectory. For instance, a dishwasher at a restaurant may feel a high barrier to promotion because she never fully understands the requirements of higher-paid jobs. If she could map out what she needs to be promoted (fluent English, cash management), she could frame job training around the fastest track to promotion.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/whats_my_path_forward.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;libranet&quot;&gt;3. Libranet&lt;/h3&gt;
+
+&lt;p&gt;A large component of web use in most library systems is job searching. Indeed, some libraries have begun training staff to help visitors apply for jobs. Libranet is a network facilitated by the library for residents to explore career opportunities and help set their own career goals. Users can see other people’s data, their goals, and make and receive suggestions. This could lead to physical meet-ups and peer support groups, and perhaps skills building teams that the library could organize workshops around. By doing this, Libranet finds new ways of collecting, extracting, and organizing data in order to make it sharable and actionable and helps find new ways to renew value in libraries as community spaces of learning.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/libranet.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;esl-pen&quot;&gt;4. ESL Pen&lt;/h3&gt;
+
+&lt;p&gt;English as a second language Pen (ESL Pen) is a lightweight, non-invasive way to document exploration of the English language for non-native speakers. With a corresponding earpiece, ESL Pen can not only remember what you write and play it back later, but also scan text and read it out loud in either English or native language. For example, a security guard who does not speak excellent English could use the Pen the supplement his work, not just to help him get through the day, but also to document places he is weak so that he can go back and study.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/esl_pen.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;asynchronous-audio-learning&quot;&gt;5. Asynchronous Audio Learning&lt;/h3&gt;
+
+&lt;p&gt;Asynchronous Audio Learning (AAL) is a mobile tool that allows users to record audio and get near real-time translation. In addition to supporting comprehension in the moment, AAL archives recordings, allowing users to not only replay audio but also develop learning modules around text that is relevant to them. For example, a hospital employee may want to attend a lecture but is worried that she won’t understand everything. By recording on AAL, she can go back and listen on her commute home, supplementing the bits she doesn’t understand with translation in her native language.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/async_audio_learning.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;mentor-match&quot;&gt;6. Mentor Match&lt;/h3&gt;
+
+&lt;p&gt;Mentor Match pairs skilled, English-speaking community-members with low-skilled adult learners who are seeking new career pathways. Similar to online dating or volunteermatch.org, adult learners submit information about themselves and their goals and are paired with a community-member who can help motivate them and support them in their learning. For example, many banks require employees to do community service each year. These employees could have access to short biographies of adult learners who are looking for a mentor, or vice versa. In a facilitated environment, these pairs could meet and document progress.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/mentormatch.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;random-events-lab&quot;&gt;7. Random Events Lab&lt;/h3&gt;
+
+&lt;p&gt;Random Events Lab is a low-risk environment for individuals to come and receive job training, interview support, and mock situations. REL seeks to support users in better understanding general expectations in a given workplace while still maintaining their individuality. REL consists of a series of life size projection screens that mimic real-life scenarios. For instance, a recent immigrant with a background in finance may come to better understand the expectations of the U.S. workplace and practice interviewing. Some of these scenarios may be automated but she may also have the opportunity to link up with potential employers and like-minded users who have common or complementary interests.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/random_events_lab.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;xpress-me&quot;&gt;8. Xpress Me&lt;/h3&gt;
+
+&lt;p&gt;Xpress Me is a mobile application designed to help users improve their literacy and numeracy skills while on their daily commute. It works by allowing the user to choose to “passively learn” (listen or read), or actively learn (answer questions and challenges). By making learning accessible during commute times, Xpress Me works to facilitate quick wins that continually motivate the user to keep using the platform. For example, a department store worker who takes the bus to work daily may choose to use Xpress Me to explore the option of becoming a nurse, learn about the profession, identify the skills that she needs, and then gradually do the reading required for the training. That way, when she goes to enroll in a nursing certification program, she is already halfway towards completing the certification.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/xpress_me.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;rich-and-passion&quot;&gt;9. Rich and Passion&lt;/h3&gt;
+
+&lt;p&gt;Rich and Passion seeks to support working students by creating a community for users to interact and offer academic support, motivation and help with non-academic needs. Based on co-located learners, users might ask for a ride to work if their car is broken down or find other students interested in a specific topic to ask questions to or get recommendations for outside learning material.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/rich_and_passion.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;foursquare-for-learning&quot;&gt;10. Foursquare for Learning&lt;/h3&gt;
+
+&lt;p&gt;Foursquare for learning aims to identify even the smallest chunk of time that a user has to learn and use the context around them to help them learn relevant skills. For example, suppose a user is at the grocery store, waiting in the checkout line after getting food for her kids dinner. Foursquare for learning may suggest some relevant articles on basic child nutrition that she could listen to via her headphones, or prompt her to do a basic calculation to see how much she is spending on bread.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/foursquare_for_learning.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;tech-literacy&quot;&gt;11. Tech Literacy&lt;/h3&gt;
+
+&lt;p&gt;Many adults use smart phones but don’t understand their capabilities beyond basic functionality. Tech Literacy seeks to empower users to better understand their phones while at the same time gaining English proficiency. By linking mobile-based demos and tutorials with language modules, TL motivates English learners with the very pertinent goal of better understanding their device. For example, a recent immigrant with two children may need a phone to communicate with his children and look for work. He’d have a easier time keeping in touch with his family in his home country if he could utilize free text applications. In his spare time, he could go through tutorials on his phone that not only teach him how to do this, but do so while bolstering his English proficiency.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/tech_literacy.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;storyteller&quot;&gt;12. Storyteller&lt;/h3&gt;
+
+&lt;p&gt;Many parents want to learn English to converse with their kids, who are learning English in school. Storyteller is a mobile application that allows parents to drag and drop sentences in order to customize a story to tell their kids. The sentences can be played out load, allowing parents learn how to say the words to their children and practice pronunciation. This interactive application empowers parents to engage their kids in their learning process, telling them compelling bedtime stories while simultaneously learning English vocabulary and practicing their speech and reading capabilities.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/storybook.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;dollarcount&quot;&gt;13. DollarCount&lt;/h3&gt;
+
+&lt;p&gt;DollarCount is a way for adult learners who struggle with basic numeracy and arithmetic to learn the basics while tracking something useful: their expenses. Users can scan in bar codes of different items they would like to purchase and then are walked through the exercises of tallying up their expenses and subtracting it from what they have to spend. The level of difficulty can grow with the user – more advanced students can use it to calculate tip or understand how much they paid per pound of potatoes at the grocery store. By using numeracy in the context of money, it helps adult learners to discreetly learn while doing necessary calculations and empowers them to track their own spending.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/dollarcount.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;project-based-learning-plugin&quot;&gt;14. Project-Based Learning PlugIn&lt;/h3&gt;
+
+&lt;p&gt;Utilizing existing technology rooted in natural language processing, this browser plug-in would index and map open education resources (Khan, Youtube, etc.) into a common library through a web crawler. Therefore, whenever a learner is online, they are creating a digital trail of not just their search history, but what academic competencies their browsing maps to. This would be a big support for project-based learning, as competencies would be documented as they did their research, rather than requiring an assessment to justify competencies. The core enabling elements of this particular idea are the competency library and NLP engine. The library is actually growing to become a full ontology and the NLP is in test development still. The library will be a public resources accessible through APIs etc. The idea is to drive innovation around this space to improve labor outcomes in general. Similarly, we would like the NLP engine to be public and something that enables more innovation from others through GitHub or other public code spaces.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/project_based_learning_plugin.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;changing-lives-through-literature-extension&quot;&gt;15. Changing Lives Through Literature Extension&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Changing_Lives_Through_Literature&quot;&gt;Changing Lives Through Literature (CLTL)&lt;/a&gt; is a bibliotherapy program that offers alternative probation sentences to offenders. The program was created in 1991 by Robert Waxler, an English professor at the &lt;a href=&quot;http://cltl.umassd.edu/home-flash.cfm&quot;&gt;University of Massachusetts Dartmouth&lt;/a&gt;, and Superior Court Judge Robert Kane. At a cost of less than $500 a person, proponents say that CLTL saves the government tens of thousands of dollars when compared with the cost of housing an inmate for a lifetime at an annual rate of $30,000. The program is said to help reduce the recidivism rate among certain segments of the prison population. Former offenders credit the program for giving them a second chance. The program has received a New England Board of Higher Education award for excellence and an Exemplary Education Grant from the National Endowment for the Humanities. With technology, we can now scale this program. By creating the ability for students, probation officers, and instructors to access the material online, we hope to minimize the cost for scaling this program and make it accessible to more students in need.&lt;/p&gt;
+
+&lt;center&gt;
+	&lt;img src=&quot;/mlw/images/gallery_sketches/changing_lives_through_literature.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;h3 id=&quot;the-job-graph&quot;&gt;16. The Job Graph&lt;/h3&gt;
+
+&lt;p&gt;Do you really know what your 1,000+ Facebook friends do on a daily basis? Would you think about reaching out to any of them about a job? For adult learners that have earned up to a high school diploma, most of their social network is on Facebook, as opposed to the professional social-networking site LinkedIn. The Job Graph is a Facebook application that shows the user jobs and industries that their friends work in. Users can restrict their search by location and then search for jobs where they already have a contact. They can click on companies and then search through that company’s job listings. If they have questions, they can contact their friends that works at the company to ask questions such as how the application process works and what prior experience is needed. By enabling users to connect with contacts that they have at the company, The Job Graph aims to take the impersonality out of low-skills job searches and allows learners to understand what “learning path” is needed to achieve a new job.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Themes from the IdeaShop</title>
+    <link href="http://learn.media.mit.edu/updates/themes-from-the-ideashop.html"/>
+    <updated>2014-06-23T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates/themes-from-the-ideashop</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;&lt;img src=&quot;/mlw/images/themes_wall.png&quot; width=&quot;100%&quot; /&gt;
+Wall of themes that emerged from the IdeaShop on adult learning on 5/22-5/23&lt;/p&gt;
+
+&lt;p&gt;This post-it wall was created by participants of the IdeaShop (held at the MIT Media Lab in May 2014). It maps the opportunities, barriers and challenges for adult learners. We are using it to identify promising areas for experimentation and to guide our work.&lt;/p&gt;
+
+&lt;h3 id=&quot;emotional-barriers&quot;&gt;1. Emotional Barriers&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adult learners with low-skills often lack effective support environments&lt;/li&gt;
+  &lt;li&gt;Past experiences may have lowered their motivation and confidence&lt;/li&gt;
+  &lt;li&gt;Low self-esteem limits good learning behaviors like asking for help (learners feel embarrassed to ask)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;literacy&quot;&gt;2. Literacy&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;36 Million Americans have low numeracy and/or literacy skills (see &lt;a href=&quot;http://nces.ed.gov/surveys/piaac/results/summary.aspx&quot;&gt;2012 PIAAC results&lt;/a&gt; for more details).&lt;/li&gt;
+  &lt;li&gt;Few jobs in the US economy do not require basic literacy and numeracy&lt;/li&gt;
+  &lt;li&gt;Low literacy also limits access to technology-supported learning programs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A man in California speaks about his own loss of identity, of self-location, definition: “I stood at the bottom of the ramp. My car had broke down on the freeway. There was a phone. I asked for the police. They was nice. They said to tell them where I was. I looked up at the signs. There was one that I had seen before. I read it to them: ONE WAY STREET. They thought it was a joke. I told them I couldn’t read. There was other signs above the ramp. They told me to try. I looked around for somebody to help. All the cars was going by real fast. I couldn’t make them understand that I was lost. The cop was nice. He told me: ‘Try once more.’ I did my best. I couldn’t read. I only knew the sign above my head. The cop was trying to be nice. He knew that I was trapped. ‘I can’t send out a car to you if you can’t tell me where you are.’ I felt afraid. I nearly cried. I’m forty-eight years old. I only said: ‘I’m on a one-way street …’” [1]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;life-barriers&quot;&gt;3. Life Barriers&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Significant costs (tuition, babysitting, loss of income from job)&lt;/li&gt;
+  &lt;li&gt;Significant time loss (loss of time with kids, loss of basics like time to sleep)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jorge Delgado, the assistant principal at Carlos Rosario International Charter School, says many of these adult students make &lt;em&gt;incredible sacrifices&lt;/em&gt; to come to class. 40% have school-age children, and some send money home to support their families. The other day, Delgado remarks, he was leaving at 3 o’clock in the morning and when he went to pay for parking, at the cash register was one of his students. I said, “Don’t you have class at 8AM? When do you get out?” He responded, “5 in the morning”. [2]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;pathways&quot;&gt;4. Pathways&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No “tried and true” pathways outside of K-12 education&lt;/li&gt;
+  &lt;li&gt;Current pathways to success require attending classes or groups&lt;/li&gt;
+  &lt;li&gt;No methods of encouragement through success stories and highlighting personal progress. (This ties into the theme of motivation (5) discussed below.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;motivation&quot;&gt;5. Motivation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One of the biggest motivators for adults to go back to school is to help their children.&lt;/li&gt;
+  &lt;li&gt;Parents want to be able to converse with their kids, who grew up learning English in school&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A mother speaks about the inability to help her kids to read: “I can’t read to them. Of course that’s leaving them out of something they should have. Oh, it matters. You believe it matters! I ordered all these books. The kids belong to a book club. Donny wanted me to read a book to him. I told Donny: ‘I can’t read.’ He said: ‘Mommy, you sit down. I’ll read it to you.’ I tried it one day, reading from the pictures. Donny looked at me. He said, ‘Mommy, that’s not right.’ He’s only five. He knew I couldn’t read …” [3]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Improving job prospects. Being able to calculate a hourly rate, understand tipping, recite a menu to customers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ernsest Robertson is a part-time yard worker. He says no matter how many hours he worked, he only charged $20, because he didn’t know how to make change. Robertson remembers vividly all the times he’s been cheated. “I think it’s one price, and it’s always something else,”” he says. “I think people can tell when you don’t know how to handle money. They know how to get you.” [4]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;fun-and-luxury&quot;&gt;6. Fun and Luxury&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For adult learners, learning is a luxury. To study, they are missing out on other aspects of life.&lt;/li&gt;
+  &lt;li&gt;Fun: We talk about basic skills acquisition as a chore, not as an enjoyable activity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mentorship&quot;&gt;7. Mentorship&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Every learner needs someone that they can turn to for help, who is there to help motivate them.&lt;/li&gt;
+  &lt;li&gt;Many literacy programs pair volunteers with one student or a small group, which allows them to work closely together and build up trust.&lt;/li&gt;
+  &lt;li&gt;The mentorship model is time-intensive, both for the students and for the teacher, and requires a long-term commitment on both parts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;credentialing&quot;&gt;8. Credentialing&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Need to help adult learners certify and market the skills that they already have.&lt;/li&gt;
+  &lt;li&gt;Is there a way to take the job experience that adult learners already have and repurpose it to count towards credentials that will help them get a job?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;IdeaShop participant Michael Bettersworth from &lt;a href=&quot;http://www.tstc.edu/frontpage/&quot;&gt;Texas State Technical College System (TSTCS)&lt;/a&gt; told the story of a man who walked through the doors of TSTCS wanting to become certified as a welder. He didn’t want to take a course – he already knew how to weld – but could not use his welding skills to get a job since he didn’t have any sort of welding certification. After one week in the machine shop working with the welding instructor, he was able to demonstrate all the techniques that he needed to get his welding certification – without ever having taken TSTCS’s welding course.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;digital&quot;&gt;9. Digital&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Is it viable to produce a mobile, tablet, or web solution? Do adult learners have sufficient access to these technologies?&lt;/li&gt;
+  &lt;li&gt;Will technology be another learning barrier that adult learners will have to overcome to learn? Or will it be a helpful tool?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;employment&quot;&gt;10. Employment&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Help adult learners learn what the next step in their careers is
+    &lt;ul&gt;
+      &lt;li&gt;E.g. dishwasher to waiter, stockroom worker to cashier&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Help them identify what skills they need to get to this step in the careers&lt;/li&gt;
+  &lt;li&gt;Help them lay out a path to master these skills&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;libraries-and-public-spaces&quot;&gt;11. Libraries and Public Spaces&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Severely underutilized by existing adult learning solutions&lt;/li&gt;
+  &lt;li&gt;Allows adult learners without Internet access at home to access the Internet&lt;/li&gt;
+  &lt;li&gt;Platform for illustrating that low adult literacy and numeracy is a problem that needs to be addressed&lt;/li&gt;
+  &lt;li&gt;Free, neutral meeting space&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;skills-and-practical-applications&quot;&gt;12. Skills and Practical Applications&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Traditional education has a lot of overhead that skills acquisition does not require&lt;/li&gt;
+  &lt;li&gt;Education typically has a bad connotation for adult learners if they dropped out of the K-12 system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;greater-community--community-needs&quot;&gt;13. Greater Community &amp;amp; Community Needs&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An inmate enrolled in a basic skills program is 40% less likely to return to prison [5]&lt;/li&gt;
+  &lt;li&gt;Improving basic skills improves health care (knowing how to count pills, reading labels to take the right dose of medication)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;scalability&quot;&gt;14. Scalability&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One-on-one and small-scale instruction is difficult to scale&lt;/li&gt;
+  &lt;li&gt;Many adult learners are too embarrassed or don’t have time to schedule and attend classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;groupings&quot;&gt;15. Groupings&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How do you group similar learners when the spread of adult learner’s skills is much larger than in K-12 education?&lt;/li&gt;
+  &lt;li&gt;What groupings are effective for giving learners a support network: 1st language, location, career goals, friendships?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;assessment&quot;&gt;16. Assessment&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How do you quantify what adult learners need to learn and what they already know?&lt;/li&gt;
+  &lt;li&gt;How do you create lightweight assessments that encourage learners, rather than being perceived as barriers?&lt;/li&gt;
+  &lt;li&gt;Is there a way to assess students through non-traditional methods that inspire creativity and communication, not recitation? (See #17: Project-Based Learning)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;project-based-learning&quot;&gt;17. Project-Based Learning&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can we effectively teach basic skills through real-world projects and experiences?&lt;/li&gt;
+  &lt;li&gt;Are team projects possible with adult learners’ busy schedules?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[1][3]: &lt;em&gt;Illiterate America&lt;/em&gt; by John Kozol
+&lt;br /&gt;
+[2][4][5]: &lt;em&gt;Yesterday’s Dropouts&lt;/em&gt; by Kavitha Cardoza&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Connecting Adult Learners</title>
+    <link href="http://learn.media.mit.edu/updates/connecting-adult-learners.html"/>
+    <updated>2014-06-19T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates/connecting-adult-learners</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Reblogged from the &lt;a href=&quot;http://dmlcentral.net/blog/philipp-schmidt/connecting-adult-learners&quot;&gt;DML Central blog post&lt;/a&gt; by Philipp Schmidt&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mlw/images/dml-adults.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of the work we have been doing as part of the connected learning community has focused on children and young people. We design digital tools that create new ways for young people to learn. We create environments in which learning starts with a young person’s interest. And, we are starting to re-design the academic system so that “non-traditional” learning can find the recognition it deserves.&lt;/p&gt;
+
+&lt;p&gt;There are many good reasons why we have focused on young people. It’s easier to make a difference to someone’s life if they are just starting out, if they haven’t already fallen behind because they lack access to good schools or other opportunities. And, as everyone who works with children will confirm, it is also very rewarding. Seeing how your work makes a young person’s eyes light up is a wonderful experience. Working with adult learners on the other hand is often harder, messier, and less likely to succeed. But, there are at least two reasons why it is important.&lt;/p&gt;
+
+&lt;p&gt;There are too many adults with low skills in the U.S. to ignore. The &lt;a href=&quot;http://www.oecd.org/site/piaac/surveyofadultskills.htm&quot;&gt;PIAAC&lt;/a&gt; study (the PISA study’s less famous adult cousin) finds that at least &lt;a href=&quot;http://skills.oecd.org/Survey_of_Adult_Skills_US.pdf&quot;&gt;36 million U.S. Americans score in the lowest two categories of literacy and maths (PDF)&lt;/a&gt;. Many have fallen out of the traditional academic systems. If connected learning can offer learners better ways to connect life and learning, and translate achievements outside the academic environment, into real world benefits, then this is a group that urgently needs it.&lt;/p&gt;
+
+&lt;p&gt;Helping adults move toward family-supporting employment, might create more opportunities for their kids to become connected learners in the future. We have made great strides designing technologies that are more accessible and appropriate for learners from diverse backgrounds. And, researchers like &lt;a href=&quot;http://www.ricarose.com/&quot;&gt;Ricarose Roque&lt;/a&gt; at the MIT Media Lab are involving families to create more supportive learning environments especially for children from low-income backgrounds. We are making progress, but on the whole, children are more likely to pick up tools like Scratch or Minecraft if they come from an opportunity-rich background. And, &lt;a href=&quot;http://www.nytimes.com/2012/02/10/education/education-gap-grows-between-rich-and-poor-studies-show.html?pagewanted=all&amp;amp;_r=0&quot;&gt;learning opportunities increase with income&lt;/a&gt; — wealthier families not only spend more money on their kids’ learning, but their kids also spend more time in places like museums and after-school programs. So why not use connected learning to increase income?&lt;/p&gt;
+
+&lt;p&gt;As part of a new initiative titled “Making / Learning / Work” (in collaboration with the Joyce Foundation) at the MIT Media Lab, we’ve started reaching out to adult learners, employers, training providers, and to the technology innovators of the Media Lab, to come up with some new solutions for adult learners. During our &lt;a href=&quot;https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit&quot;&gt;kick-off workshop&lt;/a&gt;, we sketched out 14 project ideas and are currently in the process of refining them in order to pick two or three for implementation. In the process, we are finding that connected learning works not just for kids, but also for adults. Interests may be different (think welding rather than wrestling), but having a clear purpose is just as crucial. And, peer support maybe more important yet. Many of the adult learners we are looking at have had unsuccessful experiences with the education system. Having a community they can turn to, connecting with peers who have struggled with similar challenges, and taking the role of mentor as well as mentee, could make all the difference between dropping out and pulling through. Finally, turning real world experiences into academic achievements is necessary in order to turn them into jobs.&lt;/p&gt;
+
+&lt;p&gt;Over the next 18 months, we’ll be refining our ideas, developing prototypes, and iterating on the design in close collaboration with the adult learners we are trying to support. If others in the DML Central community are interested in this area, and would like to learn more, please don’t hesitate to get in touch. We are always interested in finding more collaborators.&lt;/p&gt;
+
+&lt;p&gt;Banner image credit: &lt;a href=&quot;https://www.flickr.com/photos/dmlcentral/12999755585/in/set-72157641962961284&quot;&gt;DML Research Hub&lt;/a&gt;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Adult Learning Innovations - Kickoff Workshop</title>
+    <link href="http://learn.media.mit.edu/updates/adult-learning-innovations-workshop.html"/>
+    <updated>2014-05-29T00:00:00+00:00</updated>
+    <id>http://learn.media.mit.edu/updates/adult-learning-innovations-workshop</id>
+    <author>
+      <name>Juliana Nazaré</name>
+      <uri>http://learn.media.mit.edu/</uri>
+      <email>juliana@media.mit.edu</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;On May 22nd and 23rd, adult learning experts from around the country came to the Media Lab to help us brainstorm ideas for how we can use technology to help improve adult literacy and numeracy in the United States.&lt;/p&gt;
+
+&lt;p&gt;EdSurge’s Leonard Medlock has written a fantastic article on the workshop: &lt;a href=&quot;https://www.edsurge.com/n/2014-05-29-adult-learning-innovations-take-root-at-mit&quot;&gt;Adult Learning Innovations Take Root at MIT&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We would like to thank all the workshop participants. Your contributions will help shape our next 18 months of prototyping and testing. We cannot wait to get your feedback as we begin to expand upon these ideas.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  
+</feed>
